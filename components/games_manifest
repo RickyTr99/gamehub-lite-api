@@ -65,6 +65,20 @@
       },
       {
         "display_name": "",
+        "download_url": "https://github.com/Producdevity/gamehub-lite-api/releases/download/Components/fa20b2979210b8f2e37c3900095260b1.tzst",
+        "file_md5": "fa20b2979210b8f2e37c3900095260b1",
+        "file_name": "Massive_Settings.tzst",
+        "file_size": "261610",
+        "id": 308,
+        "is_ui": 1,
+        "logo": "https://github.com/Producdevity/gamehub-lite-api/releases/download/Components/45e60d211d35955bd045aabfded4e64b.png",
+        "name": "Massive Settings",
+        "type": 5,
+        "version": "1.0.0",
+        "version_code": 1
+      },
+      {
+        "display_name": "",
         "download_url": "https://github.com/Producdevity/gamehub-lite-api/releases/download/Components/Cyberpunk2077.tzst",
         "file_md5": "20592ce6c765d44fcc2677e4fecc72a3",
         "file_name": "Cyberpunk2077.tzst",

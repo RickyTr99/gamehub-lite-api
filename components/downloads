@@ -1166,6 +1166,15 @@
         "file_md5": "38d1bd16398c5e2c6ef6fb1d064ac1d9"
       },
       {
+        "name": "Massive_Settings",
+        "type": 5,
+        "version": "1.0.0",
+        "download_url": "https://github.com/Producdevity/gamehub-lite-api/releases/download/Components/fa20b2979210b8f2e37c3900095260b1.tzst",
+        "file_name": "Massive_Settings.tzst",
+        "file_size": "261610",
+        "file_md5": "fa20b2979210b8f2e37c3900095260b1"
+      },
+      {
         "name": "Cyberpunk2077",
         "type": 5,
         "version": "1.0.0",
