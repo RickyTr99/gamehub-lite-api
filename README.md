@@ -2,7 +2,7 @@
 
 Privacy-respecting static JSON API for the GameHub Android app. This repository hosts all configuration files, component manifests, and API responses.
 
-**GitHub Repository:** `https://github.com/Producdevity/gamehub-lite-api`
+**GameHub Lite App/Patch Repository:** `https://github.com/Producdevity/gamehub-lite`
 
 ## Build System
 
