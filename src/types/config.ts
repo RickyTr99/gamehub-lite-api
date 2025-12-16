@@ -35,7 +35,7 @@ export interface BuildConfig {
  * Default configuration
  */
 export const DEFAULT_CONFIG: BuildConfig = {
-  xmlSource: './sp_winemu_all_components12.xml',
+  xmlSource: './data/sp_winemu_all_components12.xml',
   customComponentsFile: './data/custom_components.json',
   containersFile: './data/containers.json',
   imagefsFile: './data/imagefs.json',
